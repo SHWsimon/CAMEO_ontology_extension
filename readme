@@ -1,0 +1,26 @@
+cs6350 
+
+This project can generate new CAMEO pattern.
+
+Requirement
+1.python3
+2.json
+3.keras
+4.pandas
+5.numpy
+6.pickle
+7.scikit-learn
+8.nltk
+9.rake-nltk
+
+you can install requirement 2-9 by following command
+pip3 install {json, keras, pandas, numpy, pickle, scikit-learn, nltk, rake-nltk}
+
+We have provided our bag of word model and logistic regression model. In case you need to train your model by yourself, you can run following code.
+Make sure you put your training data in the same folder. If the data format is different than what we have, you only need to modify 'readfile' method.
+
+python3 pretrain.py
+
+To see our result, you can run below command
+
+python3 predict.py
