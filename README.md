@@ -16,7 +16,6 @@
  	></ul>
 
 2. predict.py : Spectral clustering
-	>Arguments:
 	><ul>
 	><li>Read notCodedStences.txt</li>
 	><li>Predict label by pretrained model</li>
@@ -28,13 +27,13 @@
 	><li>Read notCodedStences.txt</li>
 	><li>Predict label by pretrained model</li>
 	><li>Applied five different extraction method</li>
-		><ul>
-		><li>POS tagging</li>
-		><li>Most frequent n collocations</li>
-		><li>Most frequent n noun phrases</li>
-		><li>RAKE (rapid automatic keyword extraction)</li>
-		><li>TF-IDF</li>
-		></ul>ul>
+		<ul>
+		<li>POS tagging</li>
+		<li>Most frequent n collocations</li>
+		<li>Most frequent n noun phrases</li>
+		<li>RAKE (rapid automatic keyword extraction)</li>
+		<li>TF-IDF</li>
+		</ul>ul>
 	><li>Output the predict labels and new patterns</li>
 		Ex:
-		![image]() 
+		![image](https://github.com/SHWsimon/CAMEO_ontology_extension/blob/master/pic/Picture1.png) 
