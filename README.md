@@ -8,7 +8,7 @@
 	<li>Tokenize the training set and test set with Vectorizer respectively</li>
 	<li>Train model by Logistic Regression</li>
 	<li>Analysis the result model with testing data set</li>
-	
+	</ul>
 	Output result:
 	<ul>
 	<li>Model</li>
