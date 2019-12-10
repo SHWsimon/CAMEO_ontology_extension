@@ -33,7 +33,9 @@
 		<li>Most frequent n noun phrases</li>
 		<li>RAKE (rapid automatic keyword extraction)</li>
 		<li>TF-IDF</li>
-		</ul>ul>
-	><li>Output the predict labels and new patterns</li>
-		Ex:
-		![image](https://github.com/SHWsimon/CAMEO_ontology_extension/blob/master/pic/Picture1.png) 
+		</ul>
+	</ul>
+	
+Output the predict labels and new patterns
+Ex:
+![image](https://github.com/SHWsimon/CAMEO_ontology_extension/blob/master/pic/Picture1.png) 
