@@ -23,10 +23,10 @@
 	></ul>
 
 3. project.py
-	><ul>
-	><li>Read notCodedStences.txt</li>
-	><li>Predict label by pretrained model</li>
-	><li>Applied five different extraction method</li>
+	<ul>
+	<li>Read notCodedStences.txt</li>
+	<li>Predict label by pretrained model</li>
+	<li>Applied five different extraction method</li>
 		<ul>
 		<li>POS tagging</li>
 		<li>Most frequent n collocations</li>
